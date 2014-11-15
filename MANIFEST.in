@@ -1,0 +1,5 @@
+recursive-include doc *
+recursive-include scripts *
+recursive-include conf *
+recursive-include src *
+include newrhelic.spec
